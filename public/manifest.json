@@ -1,0 +1,10 @@
+{
+  "short_name": "Phantom",
+  "name": "Phantom — Secure Messenger",
+  "description": "Military-grade encrypted messaging. No phone number. No traces.",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0a0a0f",
+  "background_color": "#0a0a0f"
+}
